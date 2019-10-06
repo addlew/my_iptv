@@ -129,6 +129,49 @@ http://www.hdpfans.com/forum-45-1.html
 搜狗微信搜索-直播源相关的公众号搜索：
 https://weixin.sogou.com/weixinwap?ie=utf8&s_from=input&type=2&query=%E7%9B%B4%E6%92%AD%E6%BA%90
 
+———————————————————
+github用户分享的直播源：
+
+dotplayer小点播放器在github的托管：
+https://github.com/m3u8playlist/dp
+
+freearhey：
+https://github.com/freearhey/iptv
+
+lizhiyong2000：
+https://github.com/lizhiyong2000/stream-tools
+
+reysc：
+https://github.com/reysc/M3U8?files=1
+
+
+https://github.com/richardleong/EXM3U/blob/master/24h.m3u
+
+
+峰哥港澳台直播源：
+https://www.dengnz.com/youtube/
+
+上海电信IPTV直播源：
+https://github.com/ArronYin/ShangHai-IPTV-list
+
+
+https://github.com/zwh8800/m3u8/blob/master/fav.clean.m3u8
+
+
+mkplayer的公共电视直播源（带分组）：
+https://coding.net/u/Tumblr/p/mkPlayer/git/raw/master/mkPlayer.conf
+
+
+https://github.com/billacablewala/m3u8
+
+
+https://github.com/nurullahzengin47/m3u8-dosyasi/blob/master/stabil-2019.m3u
+
+
+https://github.com/notanewbie/LegalStream
+
+
+https://github.com/dark-N00B/IPtv
 
 
 
