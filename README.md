@@ -24,7 +24,9 @@ https://www.sojson.com/
 # my_dotplayer_cf 文件夹
 该文件夹下存放的我的dotplayer小点播放器订阅源与频道备份
 
-==============纯自定义APP推荐==============
+
+# ==============纯自定义APP推荐==============
+
 改自：https://github.com/reysc/M3U8
 
 # Windows端APP
@@ -55,6 +57,7 @@ https://play.google.com/store/apps/details?id=com.niklabs.pp
 
 # iOS端APP
 （前四款APP也是我在用的）
+
 推荐：GSE SMART IPTV(功能最全面，操作稍繁琐，支持rtsp、rtmp，有内购)
 https://apps.apple.com/cn/app/gse-smart-iptv/id1028734023
 
