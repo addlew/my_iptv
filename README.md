@@ -64,7 +64,7 @@ https://apps.apple.com/cn/app/gse-smart-iptv/id1028734023
 推荐：dotPlayer（功能越来越完善了，简洁，好用，支持订阅json、txt、m3u8等）
 https://apps.apple.com/cn/app/dotplayer/id1455092592
 
-推荐：MK播放器 for M3U8(现在唯一在用，支持单链接多分组简洁订阅链接，格式简单手机端也好维护，画中画、后台播放、分组隐藏等，功能全面，有公共订阅源自动维护，操作、使用体验好)
+推荐：MK播放器 for M3U8(支持单链接多分组简洁订阅链接，格式简单手机端也好维护，画中画、后台播放、分组隐藏等，功能全面，有公共订阅源自动维护，操作、使用体验好)
 https://itunes.apple.com/cn/app/mk%E6%92%AD%E6%94%BE%E5%99%A8-for-m3u8/id1455832781
 
 推荐：sPlayer（可预览，支持支持订阅、支持导入直播源、也支持直接拷贝txt、m3u文件到splayer目录下）
