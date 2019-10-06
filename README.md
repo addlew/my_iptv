@@ -58,7 +58,7 @@ https://play.google.com/store/apps/details?id=com.niklabs.pp
 # iOS端APP
 （前四款APP也是我在用的）
 
-推荐：GSE SMART IPTV(功能最全面，操作稍繁琐，支持rtsp、rtmp，有内购)
+推荐：GSE SMART IPTV(功能最全面，操作稍繁琐，支持rtsp、rtmp，有去广告内购)
 https://apps.apple.com/cn/app/gse-smart-iptv/id1028734023
 
 推荐：dotPlayer（功能越来越完善了，简洁，好用，支持订阅json、txt、m3u8等）
