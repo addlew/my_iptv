@@ -20,3 +20,6 @@ https://www.bejson.com/
 
 JSON在线 | JSON解析格式化—SO JSON在线：
 https://www.sojson.com/
+
+# my_dotplayer_cf 文件夹
+该文件夹下存放的我的dotplayer小点播放器订阅源与频道备份
