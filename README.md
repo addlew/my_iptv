@@ -105,3 +105,31 @@ https://tiny-tools.com/download/iptv-checker/
 
 M3U8批量下载器V1.4.2 by逍遥一仙
 https://www.52pojie.cn/thread-785996-1-1.html
+
+# 还可在哪找到直播源？
+
+黑鸟博客-直播源：
+https://guihet.com/category/tvlive
+
+老伙计-直播源分享：
+https://laoguy.com/
+
+古风网络博客分享直播源：
+https://www.liedun.top/zyfx/zbyfx
+
+tv001电视直播源：
+http://www.tv001.vip/index.php?order=postdate
+
+智能电视技术网论坛-直播源分享：
+http://zndstec.cn/forum-56-1.html
+
+高清范_节目源分享：
+http://www.hdpfans.com/forum-45-1.html
+
+搜狗微信搜索-直播源相关的公众号搜索：
+https://weixin.sogou.com/weixinwap?ie=utf8&s_from=input&type=2&query=%E7%9B%B4%E6%92%AD%E6%BA%90
+
+
+
+
+
