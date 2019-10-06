@@ -1,0 +1,105 @@
+{"uuid":"ec6fa433-c9ee-49c0-9491-bc35a2e46fea",
+"channels": [
+],
+"subscriptions": [
+{
+"name":"IPTV.M3U",
+"url": "https://raw.githubusercontent.com/m3u8playlist/m3u8/master/iptv.m3u"
+},{
+"name":"[TV][LIVE][HONGKONG]香港",
+"url": "https://raw.githubusercontent.com/m3u8playlist/dp/master/live_tv/hk.json"
+},{
+"name":"[TV][LIVE][JAPAN]日本",
+"url": "https://raw.githubusercontent.com/m3u8playlist/dp/master/live_tv/jp.json"
+},{
+"name":"[TV][LIVE][US]美国",
+"url": "https://raw.githubusercontent.com/m3u8playlist/dp/master/live_tv/us.json"
+},{
+"name":"[TV][LIVE][UK]英国",
+"url": "https://raw.githubusercontent.com/m3u8playlist/dp/master/live_tv/uk.json"
+},{
+"name":"24H.M3U",
+"url": "https://github.com/richardleong/EXM3U/raw/master/24h.m3u"
+},{
+"name":"[TV][LIVE][KOREA]韩国",
+"url": "https://raw.githubusercontent.com/m3u8playlist/dp/master/live_tv/kr.json"
+},{
+"name":"[TV][LIVE][SINGAPORE]新加坡",
+"url": "https://raw.githubusercontent.com/m3u8playlist/dp/master/live_tv/sg.json"
+},{
+"name":"[TV][频道杂集1]",
+"url": "https://raw.githubusercontent.com/m3u8playlist/dp/master/live_tv/misc1.json"
+},{
+"name":"[TV][LIVE][CANADA]加拿大",
+"url": "https://raw.githubusercontent.com/m3u8playlist/dp/master/live_tv/canada.json"
+},{
+"name":"[TV][LIVE][MACAU]澳门",
+"url": "https://raw.githubusercontent.com/m3u8playlist/dp/master/live_tv/macau.json"
+},{
+"name":"[RADIO][HONGKONG]香港",
+"url": "https://raw.githubusercontent.com/m3u8playlist/dp/master/radio/hk.json"
+},{
+"name":"[RADIO][UK]英国",
+"url": "https://raw.githubusercontent.com/m3u8playlist/dp/master/radio/uk.json"
+},{
+"name":"[RADIO][US]美国",
+"url": "https://raw.githubusercontent.com/m3u8playlist/dp/master/radio/us.json"
+},{
+"name":"[RADIO][CLASSICAL]古典",
+"url": "https://raw.githubusercontent.com/m3u8playlist/dp/master/radio/classical.json"
+},{
+"name":"[RADIO][COUNTRY]乡村",
+"url": "https://raw.githubusercontent.com/m3u8playlist/dp/master/radio/country.json"
+},{
+"name":"[RADIO][BLUES]布鲁斯",
+"url": "https://raw.githubusercontent.com/m3u8playlist/dp/master/radio/blues.json"
+},{
+"name":"[RADIO][TOP]",
+"url": "https://raw.githubusercontent.com/m3u8playlist/dp/master/radio/top.json"
+},{
+"name":"电台-全",
+"url": "https://raw.githubusercontent.com/m3u8playlist/m3u8/master/radioall.json"
+},{
+"name":"[TV][LIVE][TAIWAN]台湾",
+"url": "https://raw.githubusercontent.com/m3u8playlist/dp/master/live_tv/tw.json"
+},{
+"name":"[TV][LIVE]北京邮电大学直播源",
+"url": "https://raw.githubusercontent.com/m3u8playlist/dp/master/live_tv/pdsu.json"
+},{
+"name":"[TV][LIVE][新闻-英语]",
+"url": "https://raw.githubusercontent.com/m3u8playlist/dp/master/live_tv/news_english.json"
+},{
+"name":"MY.M3U",
+"url": "https://raw.githubusercontent.com/m3u8playlist/dp/master/live_tv/my.m3u"
+},{
+"name":"湖北有线",
+"url": "https://raw.githubusercontent.com/m3u8playlist/dp/master/live_tv/hubeiyouxian.txt"
+},{
+"name":"[TV][LIVE]哈尔滨移动",
+"url": "https://raw.githubusercontent.com/m3u8playlist/dp/master/live_tv/hebyd.json"
+},{
+"name":"[TV][LIVE][中国移动源1080P]",
+"url": "https://raw.githubusercontent.com/m3u8playlist/dp/master/live_tv/chinamobile.json"
+},{
+"name":"STABIL-2019.M3U一些国外台",
+"url": "https://raw.githubusercontent.com/nurullahzengin47/m3u8-dosyasi/master/stabil-2019.m3u"
+},{
+"name":"US.M3U美国",
+"url": "https://raw.githubusercontent.com/usaweili/iptv/master/channels/us.m3u"
+},{
+"name":"INDEX.SPORT.M3U体育频道",
+"url": "https://raw.githubusercontent.com/freearhey/iptv/master/index.sport.m3u"
+},{
+"name":"INDEX.COUNTRY.M3U",
+"url": "https://raw.githubusercontent.com/freearhey/iptv/master/index.country.m3u"
+},{
+"name":"INDEX.CONTENT.M3U",
+"url": "https://raw.githubusercontent.com/freearhey/iptv/master/index.content.m3u"
+},{
+"name":"INDEX.FULL.M3U",
+"url": "https://raw.githubusercontent.com/freearhey/iptv/master/index.full.m3u"
+},{
+"name":"CN.M3U中国",
+"url": "https://raw.githubusercontent.com/usaweili/iptv/master/channels/cn.m3u"
+}]
+}
